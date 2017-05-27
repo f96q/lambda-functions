@@ -1,0 +1,15 @@
+{
+  "name": "lambda-functions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "danny <danny.dev8@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "dependencies": {
+    "elm-webpack-loader": "^4.3.1",
+    "webpack": "^2.6.0"
+  }
+}
